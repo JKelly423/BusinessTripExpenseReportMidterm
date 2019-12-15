@@ -1,0 +1,17 @@
+Employee Expense Report for Jack Kelly
+
+Total Days: 4
+Departure time: 6.30 (24 Hour HH.MM)      Return time: 8.30 (24 Hour HH.MM)
+
+                    Spent        Allowed
+                    -----        -------
+AirFare            250.00         250.00
+Car Rental         300.00         300.00
+Mileage            232.00         232.00
+Parking            500.00          48.00
+Taxis               55.00          55.00
+Registration       345.00         345.00
+Hotels             330.00         270.00
+Meals              184.00         120.00
+
+Totals            2196.00        1620.00
